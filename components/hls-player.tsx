@@ -73,7 +73,7 @@ export function HlsPlayer({ src, poster, autoPlay = false }: HlsPlayerProps) {
   return (
     <video
       ref={videoRef}
-      className="aspect-video w-full rounded-xl border border-zinc-800 bg-black shadow-lg"
+      className="aspect-video w-full bg-black"
       controls
       autoPlay={autoPlay}
       poster={poster}
