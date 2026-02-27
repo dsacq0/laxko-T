@@ -23,9 +23,9 @@ export const matches: Match[] = [
   },
   {
     id: 2,
-    slug: "ucl-madrid-vs-barca",
-    title: "Real Madrid vs Barcelona",
-    competition: "UEFA Champions League",
+    slug: "Wolverhampton Wanderers vs. Aston Villa",
+    title: "Wolverhampton Wanderers vs Aston Villa",
+    competition: "Primier League",
     thumbnail: "https://api.ppv.to/assets/thumb/c4497d216929356df9deddc221779f3c-thumbnail.jpg",
     streamType: "hls",
     streamUrl: "https://test-streams.mux.dev/ptsVOD.m3u8",
