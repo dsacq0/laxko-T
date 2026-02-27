@@ -28,7 +28,8 @@ export const matches: Match[] = [
     competition: "Primier League",
     thumbnail: "https://api.ppv.to/assets/thumb/c4497d216929356df9deddc221779f3c-thumbnail.jpg",
     streamType: "hls",
-    streamUrl: '<iframe id="player" marginheight="0" marginwidth="0" src="https://pooembed.eu/embed/premierleague/2026-02-27/wol-avl" scrolling="no" allowfullscreen="yes" allow="encrypted-media; picture-in-picture;" width="100%" height="100%" frameborder="0" style="position:absolute;"></iframe>',
+    streamUrl: 
+      '<iframe id="player" marginheight="0" marginwidth="0" src="https://pooembed.eu/embed/premierleague/2026-02-27/wol-avl" scrolling="no" allowfullscreen="yes" allow="encrypted-media; picture-in-picture;" width="100%" height="100%" frameborder="0" style="position:absolute;"></iframe>',
   },
   {
     id: 3,
@@ -46,7 +47,6 @@ export const matches: Match[] = [
     competition: "Serie A",
     thumbnail: "https://images.pexels.com/photos/3991872/pexels-photo-3991872.jpeg",
     streamType: "embed",
-    // ใส่ได้ทั้ง URL ของ iframe หรือแปะ <iframe> ทั้งก้อน
     streamUrl:
       '<iframe id="player" marginheight="0" marginwidth="0" src="https://pooembed.eu/embed/premierleague/2026-02-27/wol-avl" scrolling="no" allowfullscreen="yes" allow="encrypted-media; picture-in-picture;" width="100%" height="100%" frameborder="0" style="position:absolute;"></iframe>',
   },
