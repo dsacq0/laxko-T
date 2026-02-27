@@ -26,7 +26,7 @@ export const matches: Match[] = [
     slug: "ucl-madrid-vs-barca",
     title: "Real Madrid vs Barcelona",
     competition: "UEFA Champions League",
-    thumbnail: "https://images.pexels.com/photos/3991874/pexels-photo-3991874.jpeg",
+    thumbnail: "https://api.ppv.to/assets/thumb/c4497d216929356df9deddc221779f3c-thumbnail.jpg",
     streamType: "hls",
     streamUrl: "https://test-streams.mux.dev/ptsVOD.m3u8",
   },
