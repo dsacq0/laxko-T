@@ -27,8 +27,9 @@ export const matches: Match[] = [
     title: "Wolverhampton Wanderers vs Aston Villa",
     competition: "Primier League",
     thumbnail: "https://api.ppv.to/assets/thumb/c4497d216929356df9deddc221779f3c-thumbnail.jpg",
-    streamType: "embed",
+    streamType: "hls",
     streamUrl: '<iframe id="player" marginheight="0" marginwidth="0" src="https://pooembed.eu/embed/premierleague/2026-02-27/wol-avl" scrolling="no" allowfullscreen="yes" allow="encrypted-media; picture-in-picture;" width="100%" height="100%" frameborder="0" style="position:absolute;"></iframe>',
+  },
   {
     id: 3,
     slug: "ucl-bayern-vs-liverpool",
